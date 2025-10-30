@@ -52,7 +52,7 @@ function App() {
         </div>
 
         <div className="input-group">
-          <label>Taille (cm)</label>
+          <label>Taill (cm)</label>
           <input
             type="number"
             value={taille}
